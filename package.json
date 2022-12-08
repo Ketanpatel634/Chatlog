@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Creating a Chat Application using Node.js, Express, Socket.io, MongoDB and HTML & CSS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jasmin": "^0.0.2",
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.5",
+    "socket.io": "^4.5.4"
+  }
+}
